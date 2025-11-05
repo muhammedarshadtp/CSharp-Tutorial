@@ -1,0 +1,14 @@
+/Users/muhammedarshadtp/Desktop/C-Sharp tutorial/obj/Debug/net9.0/C-Sharp tutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammedarshadtp/Desktop/C-Sharp tutorial/obj/Debug/net9.0/C-Sharp tutorial.AssemblyInfoInputs.cache
+/Users/muhammedarshadtp/Desktop/C-Sharp tutorial/obj/Debug/net9.0/C-Sharp tutorial.AssemblyInfo.cs
+/Users/muhammedarshadtp/Desktop/C-Sharp tutorial/obj/Debug/net9.0/C-Sharp tutorial.csproj.CoreCompileInputs.cache
+/Users/muhammedarshadtp/Desktop/C-Sharp tutorial/bin/Debug/net9.0/C-Sharp tutorial
+/Users/muhammedarshadtp/Desktop/C-Sharp tutorial/bin/Debug/net9.0/C-Sharp tutorial.deps.json
+/Users/muhammedarshadtp/Desktop/C-Sharp tutorial/bin/Debug/net9.0/C-Sharp tutorial.runtimeconfig.json
+/Users/muhammedarshadtp/Desktop/C-Sharp tutorial/bin/Debug/net9.0/C-Sharp tutorial.dll
+/Users/muhammedarshadtp/Desktop/C-Sharp tutorial/bin/Debug/net9.0/C-Sharp tutorial.pdb
+/Users/muhammedarshadtp/Desktop/C-Sharp tutorial/obj/Debug/net9.0/C-Sharp tutorial.dll
+/Users/muhammedarshadtp/Desktop/C-Sharp tutorial/obj/Debug/net9.0/refint/C-Sharp tutorial.dll
+/Users/muhammedarshadtp/Desktop/C-Sharp tutorial/obj/Debug/net9.0/C-Sharp tutorial.pdb
+/Users/muhammedarshadtp/Desktop/C-Sharp tutorial/obj/Debug/net9.0/C-Sharp tutorial.genruntimeconfig.cache
+/Users/muhammedarshadtp/Desktop/C-Sharp tutorial/obj/Debug/net9.0/ref/C-Sharp tutorial.dll
