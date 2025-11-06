@@ -208,3 +208,31 @@
 //     Console.WriteLine("Hai");
 //     i++;
 // } while (i<=5);
+
+
+
+//  Switch Statement
+
+// Console.WriteLine("Enter an Alphabet :");
+// string? letter = Console.ReadLine();
+
+// switch (letter)
+// {
+//     case "A":
+//         Console.WriteLine("Apple");
+//         break;
+
+//     case "B":
+//         Console.WriteLine("Bat");
+//         break;
+//     case "C":
+//         Console.WriteLine("Cat");
+//         break;
+//     case "D":
+//         Console.WriteLine("Dog");
+//         break;    
+
+//     default:
+//         Console.WriteLine("Invalid Alphabet");
+//         break;
+// }
