@@ -180,3 +180,31 @@
 // {
 //     Console.WriteLine("Your can speak Hindhi");
 // }
+
+
+// for Loop
+
+// for(int i = 1; i <= 5; i++)
+// {
+//     Console.WriteLine("hai");
+// }
+
+//  While Loop
+
+// int i = 1;
+
+// while (i <= 5)
+// {
+//     Console.WriteLine("Hello");
+//     i++;
+// }
+
+//  Do While Loop
+
+// int i = 1;
+
+// do
+// {
+//     Console.WriteLine("Hai");
+//     i++;
+// } while (i<=5);
