@@ -92,3 +92,91 @@
 //  String result =a > 9 ? "positive number" : "Negative number";
 
 // Console.WriteLine(result);
+
+
+//  userInputs
+
+// Console.WriteLine("Enter your name:");
+// string? name = Console.ReadLine();
+// Console.WriteLine("Your name is "  +  name);
+
+// Console.WriteLine("enter a number");
+// int number = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("your number is  " + number);
+
+
+// Convert.ToInt32()   // Convert to int
+// Convert.ToDouble()  // Convert to double
+// Convert.ToString()  // Convert to string
+// Convert.ToBoolean() // Convert to bool
+
+
+//  IF statement
+
+// Console.WriteLine("Enter Your Age:");
+// int age = Convert.ToInt32(Console.ReadLine());
+
+// if(age >= 18)
+// {
+//     Console.WriteLine("Permission Granted");
+// }
+
+
+//  If else statement 
+
+// Console.WriteLine("Enter Your Age:");
+// int age = Convert.ToInt32(Console.ReadLine());
+
+// if(age >= 18)
+// {
+//     Console.WriteLine("Permission Granted");
+// }
+// else
+// {
+//   Console.WriteLine(" No Permission ");  
+// }
+
+
+//  If else If statement
+
+// Console.WriteLine("Enter Your State:");
+// string? place = Console.ReadLine();
+
+// if(place == "kerala")
+// {
+//     Console.WriteLine("Your language is malayalam");
+// }else if(place== "tamil")
+// {
+//     Console.WriteLine("Your language is tamil");
+// }else if(place == "karnadaka")
+// {
+//     Console.WriteLine("Your language is karanadake");
+// }
+// else
+// {
+//     Console.WriteLine("Your language is " + place + " language");
+// }
+
+// Console.WriteLine("South or North");
+// string? part = Console.ReadLine();
+
+// if(part == "South")
+// {
+//    Console.WriteLine("Enter Your State:");
+// string? place = Console.ReadLine();
+
+// if(place == "kerala")
+// {
+//     Console.WriteLine("Your can speak malayalam");
+// }else if(place== "tamil")
+// {
+//     Console.WriteLine("Your can speak tamil");
+// }else if(place == "karnadaka")
+// {
+//     Console.WriteLine("Your can speak karanadake");
+// } 
+// }
+// else
+// {
+//     Console.WriteLine("Your can speak Hindhi");
+// }
