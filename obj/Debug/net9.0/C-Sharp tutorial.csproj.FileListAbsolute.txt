@@ -13,3 +13,18 @@
 /Users/muhammedarshadtp/Desktop/C-Sharp tutorial/obj/Debug/net9.0/C-Sharp tutorial.genruntimeconfig.cache
 /Users/muhammedarshadtp/Desktop/C-Sharp tutorial/obj/Debug/net9.0/ref/C-Sharp tutorial.dll
 /Users/muhammedarshadtp/Desktop/C-Sharp tutorial/obj/Debug/net9.0/C-Sharp tutorial.sourcelink.json
+C:\Users\arsha\code\c-sharp\CSharp-Tutorial\bin\Debug\net9.0\C-Sharp tutorial.exe
+C:\Users\arsha\code\c-sharp\CSharp-Tutorial\bin\Debug\net9.0\C-Sharp tutorial.deps.json
+C:\Users\arsha\code\c-sharp\CSharp-Tutorial\bin\Debug\net9.0\C-Sharp tutorial.runtimeconfig.json
+C:\Users\arsha\code\c-sharp\CSharp-Tutorial\bin\Debug\net9.0\C-Sharp tutorial.dll
+C:\Users\arsha\code\c-sharp\CSharp-Tutorial\bin\Debug\net9.0\C-Sharp tutorial.pdb
+C:\Users\arsha\code\c-sharp\CSharp-Tutorial\obj\Debug\net9.0\C-Sharp tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsha\code\c-sharp\CSharp-Tutorial\obj\Debug\net9.0\C-Sharp tutorial.AssemblyInfoInputs.cache
+C:\Users\arsha\code\c-sharp\CSharp-Tutorial\obj\Debug\net9.0\C-Sharp tutorial.AssemblyInfo.cs
+C:\Users\arsha\code\c-sharp\CSharp-Tutorial\obj\Debug\net9.0\C-Sharp tutorial.csproj.CoreCompileInputs.cache
+C:\Users\arsha\code\c-sharp\CSharp-Tutorial\obj\Debug\net9.0\C-Sharp tutorial.sourcelink.json
+C:\Users\arsha\code\c-sharp\CSharp-Tutorial\obj\Debug\net9.0\C-Sharp tutorial.dll
+C:\Users\arsha\code\c-sharp\CSharp-Tutorial\obj\Debug\net9.0\refint\C-Sharp tutorial.dll
+C:\Users\arsha\code\c-sharp\CSharp-Tutorial\obj\Debug\net9.0\C-Sharp tutorial.pdb
+C:\Users\arsha\code\c-sharp\CSharp-Tutorial\obj\Debug\net9.0\C-Sharp tutorial.genruntimeconfig.cache
+C:\Users\arsha\code\c-sharp\CSharp-Tutorial\obj\Debug\net9.0\ref\C-Sharp tutorial.dll

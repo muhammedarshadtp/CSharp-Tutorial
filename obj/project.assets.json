@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/muhammedarshadtp/.nuget/packages/": {}
+    "C:\\Users\\arsha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/muhammedarshadtp/Desktop/C-Sharp tutorial/C-Sharp tutorial.csproj",
+      "projectUniqueName": "C:\\Users\\arsha\\code\\c-sharp\\CSharp-Tutorial\\C-Sharp tutorial.csproj",
       "projectName": "C-Sharp tutorial",
-      "projectPath": "/Users/muhammedarshadtp/Desktop/C-Sharp tutorial/C-Sharp tutorial.csproj",
-      "packagesPath": "/Users/muhammedarshadtp/.nuget/packages/",
-      "outputPath": "/Users/muhammedarshadtp/Desktop/C-Sharp tutorial/obj/",
+      "projectPath": "C:\\Users\\arsha\\code\\c-sharp\\CSharp-Tutorial\\C-Sharp tutorial.csproj",
+      "packagesPath": "C:\\Users\\arsha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\arsha\\code\\c-sharp\\CSharp-Tutorial\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/muhammedarshadtp/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\arsha\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
