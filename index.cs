@@ -1,3 +1,4 @@
+using Rock;
 using sample;
 
 namespace Index
@@ -35,6 +36,8 @@ namespace Index
             // Console.WriteLine(p);
 
             Text.ShowRandom();
+            Paper.Scisser();
+
         }
     }
 }
